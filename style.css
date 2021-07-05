@@ -1,0 +1,43 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 5px;
+}
+.linking{
+    color: white;
+    text-decoration:none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 8px 20px 8px 15px;
+    font-size: 16px;
+    border-radius: 15px;
+    
+}
+.button{
+    color: tomato;
+    border: 5px 2px 10px 10px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border-color: tomato;
+    text-align: right;
+    
+    
+}
+.heading{
+    margin-top: 0px;
+    text-align: right;
+    
+}
+#left-need{
+    text-align: left;
+}
+.just-coloring{
+    color: sandybrown;
+}
+.div-written{
+    font-size: 45px;
+    padding: 100px 0px 0px 55px;
+}
+.sec-first{
+    display: flex;
+    padding-top: 45px;
+    width: 100%;
+}
