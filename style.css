@@ -9,6 +9,7 @@ body{
     padding: 8px 20px 8px 15px;
     font-size: 16px;
     border-radius: 15px;
+    box-shadow: 5px 5px 5px tomato;
     
 }
 .button{
@@ -26,6 +27,14 @@ body{
     text-align: right;
     
 }
+.font-first{
+    font-size: 55px;
+    padding-top: 75px;
+}
+.font-sec{
+    font-size: 22px;
+   
+}
 #left-need{
     text-align: left;
 }
@@ -33,11 +42,35 @@ body{
     color: sandybrown;
 }
 .div-written{
-    font-size: 45px;
-    padding: 100px 0px 0px 55px;
+    width: 50%;
+    padding: 25px 150px 0px 55px;
 }
 .sec-first{
     display: flex;
     padding-top: 45px;
-    width: 100%;
+    width: ;
+}
+
+.sec-sec{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.flex-one img{
+ width: 100%;
+ 
+}
+.flex-one{
+    padding: 25px 25px 20px 25px;
+
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 30px;
+    margin-right: 20px;
+    border-radius: 25px;
+}
+#position{
+    width: 45%;
+    margin-top: 100px;
+    margin-left: 420px;
+    text-align: center;
 }
